@@ -1,5 +1,5 @@
 import { apiClient } from '@/lib/api/client';
-import { Car, CarsResponse, CarsQueryParams, ApiResponse } from '@/types/car';
+import { CarsResponse, CarsQueryParams, ApiResponse } from '@/types/car';
 
 const CARS_ENDPOINT = '/cars';
 const ITEMS_PER_PAGE = 12;
