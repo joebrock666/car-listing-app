@@ -69,8 +69,6 @@ src/
 └── types/                  # TypeScript type definitions
 ```
 
-## API Integration
+## Deployment
 
-The application fetches car data from an external API endpoint. The API supports:
-- Pagination (`_page`, `_limit`)
-- Sorting (`_sort`, `_order`)
+You can view the website live on https://car-listing-app-psi.vercel.app/
